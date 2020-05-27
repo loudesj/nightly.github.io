@@ -1,0 +1,1 @@
+<iframe name="my-iframe" src="iframe.php"></iframe>
